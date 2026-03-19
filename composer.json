@@ -7,8 +7,10 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "QuerySpy",
-            "email": "hello@queryspy.dev"
+            "name": "ohtuser",
+            "email": "ohtuser1@gmail.com",
+            "homepage": "https://github.com/ohtuser",
+            "role": "Developer"
         }
     ],
     "require": {

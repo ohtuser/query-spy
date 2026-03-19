@@ -1,5 +1,5 @@
 {
-    "name": "tuser/query-spy",
+    "name": "ohtuser/query-spy",
     "homepage": "https://github.com/ohtuser/query-spy",
     "description": "QuerySpy: Real-time Laravel query performance monitoring — N+1 detection, slow queries, duplicate queries, memory tracking, and a beautiful developer dashboard.",
     "type": "library",
